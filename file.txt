@@ -5,3 +5,5 @@ apples
 mangoes
 cherry
 orange
+fruit
+grapes
