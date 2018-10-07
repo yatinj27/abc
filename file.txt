@@ -1,0 +1,7 @@
+Shopping list
+=============
+
+apples
+mangoes
+cherry
+orange
